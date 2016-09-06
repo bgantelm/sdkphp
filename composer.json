@@ -1,0 +1,17 @@
+{
+    "name": "bgantelm/recast",
+    "description": "blablabma",
+    "authors": [
+        {
+            "name": "Bruno",
+            "email": "bruno.gantelmi@recast.ai"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "recast": "src/"
+        }
+    }
+}
